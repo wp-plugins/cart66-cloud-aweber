@@ -1,0 +1,11 @@
+.ca-receipt-notification {
+  float: left;
+  padding: 0px 0px 20px 14px;
+}
+
+#simplemodal-overlay {background-color:#000; cursor:auto;}
+#simplemodal-container {height:450px; width:350px; color:#bbb; background-color:#fff; border:1px solid #444; padding:0px;} */
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#ddd;}
+#simplemodal-container a.modalCloseImg {background:url(../img/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container #basic-modal-content {padding:8px;}
